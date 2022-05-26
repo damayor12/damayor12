@@ -5,7 +5,7 @@ I enjoy writing javascript and smashing these bugs 😉.
 [![Linkedin: Obembe Busayo](https://img.shields.io/badge/-Obembe_Busayo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obembe-busayo/)](https://www.linkedin.com/in/obembe-busayo/)
 
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=damayor12&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=damayor12&hide=jupyter%20notebook&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 
 [![Busayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=damayor12&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
