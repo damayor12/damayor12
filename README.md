@@ -28,7 +28,7 @@ Migrated entire codebase (open source PERN project) to Typescript, also features
 - Co-developer -  Silky Ng [github](https://github.com/silkster87)
 
 
-## Restaurants Finder (Full Stack Testing) [repo](https://github.com/damayor12/Restaurants_finder)
+## Restaurants Finder (Full Stack) [repo](https://github.com/damayor12/Restaurants_finder)
 A ‘Lieferando’ inspired e-commerce MERN-stack shopping application. 
 
 
